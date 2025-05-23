@@ -1,4 +1,4 @@
-# This repo will only be for Releases only
+# This repo will only be for Releases and Requests only
 
 ## AppStore
 Welcome to my AppStore, Programs and Drivers will be added every time.
